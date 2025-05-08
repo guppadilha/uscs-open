@@ -1,3 +1,8 @@
+Autor: Gustavo Padilha
+Curso: Sistemas de Informação  
+Atividade prática de versionamento com Git e GitHub.
+
+
 HELLO WORLD
 
 abcdefghijklmnopqrstuvwxyz
